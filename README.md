@@ -1,4 +1,4 @@
-# make_astral_map — README (English)
+#** make_astral_map **
 
 Generates a **map file** (TSV `taxon<TAB>group`) for **ASTRAL** from hundreds (or thousands) of **NEXUS** and **FASTA** alignments. No external dependencies, simple and portable.
 
