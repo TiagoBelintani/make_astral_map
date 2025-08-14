@@ -1,4 +1,4 @@
-#** make_astral_map **
+# make_astral_map 
 
 Generates a **map file** (TSV `taxon<TAB>group`) for **ASTRAL** from hundreds (or thousands) of **NEXUS** and **FASTA** alignments. No external dependencies, simple and portable.
 
@@ -133,7 +133,7 @@ python make_astral_map.py \
 
 ---
 
-## 📜 Map file output
+## Map file output
 
 - TSV format: `taxon<TAB>group`, sorted alphabetically by taxon.
 - Examples:
